@@ -8,6 +8,6 @@
 layout: home
 ---
 
-Hey there! I'm Aman garg, a Frontend Developer based out of Bangalore, India. I have been making Web Aapplications for about four years now. 
+Hey there! I'm Aman Garg, a Frontend Developer based out of Bangalore, India. I have been making Web Aapplications for about four years now. 
 
-I'm currently working at Walmart and have previously worked at Siemens as a Fullstack Software Engineer.
+I'm currently working at Walmart (Software Engineer 3) and have previously worked at Siemens as a Fullstack Software Engineer.
