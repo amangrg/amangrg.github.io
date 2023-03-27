@@ -6,5 +6,5 @@ ref: contact
 order: 1
 ---
 
+You should **[email me](mailto:amangrg96@gmail.com)**.
 
-[Go to the Home Page]({{ '/' | absolute_url }})
