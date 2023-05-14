@@ -23,5 +23,5 @@ Throughout the film, everyone uses Pinocchio for their selfish ends, and he, a C
 
 ![A Christ-like figure](/assets/images/pinnochhio_on_cross.png){: width="800" }
 
-Pinocchio eventually makes the ultimate sacrifice and gives up his life for that of his father. What follows is a gut-wrenching scene where Gepetto holds his lifeless body and weeps (along with the viewer). By making this sacrifice, Pinocchio has risen to divinity in the narrative. In the end, "they" from the question (now meaning the viewers) grow to love Pinocchio unconditionally due to his Christ-like sacrifice. This parallelism is only strengthened when he ressurects and reunites with Gepetto.
+Pinocchio eventually makes the ultimate sacrifice and gives up his life for that of his father. What follows is a scene which is the pinnacle of this film - Gepetto holds Pinocchio's lifeless body and weeps. By making this sacrifice, Pinocchio has risen to divinity in the narrative. In the end, "they" (now meaning the viewers) grow to love Pinocchio unconditionally due to his Christ-like sacrifice. And this parallelism is only strengthened when he ressurects and reunites with Gepetto.
 
