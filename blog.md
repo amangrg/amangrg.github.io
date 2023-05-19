@@ -15,7 +15,7 @@ order: 1
 <ul>
 {% assign date = currentdate %}
 {% endif %}
-<li>
+<li style="margin-left: 12px">
 <span>{{ post.date | date: "%b %-d" }} - </span>
 <a href="{{ site.url }}{{ post.url }}">
 <span>{{ post.title }}</span>
