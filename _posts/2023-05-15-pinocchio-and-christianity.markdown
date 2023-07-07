@@ -5,7 +5,7 @@ date: 2023-05-15 01:03:40 +0530
 tags: films review Pinocchio Del Toro Chistianity Jesus
 ---
 
-*Spoiler Alert! This Post contains spoilers for Guillermo del Toro's Pinocchio*
+_Spoiler Alert! This Post contains spoilers for Guillermo del Toro's Pinocchio_
 
 When I saw this film, I was expecting many things: a beautifully animated film, a twist on the Pinocchio formula, redemption at the end - all this was delivered, and yet I was unprepared for the sentimentality with which this film is woven and the Christian themes in it.
 
@@ -24,4 +24,3 @@ Throughout the film, everyone uses Pinocchio for their selfish ends, and he, a C
 ![A Christ-like figure](/assets/images/pinnochhio_on_cross.png){: width="800" }
 
 Pinocchio eventually makes the ultimate sacrifice and gives up his life for that of his father. What follows is a scene which is the pinnacle of this film - Gepetto holds Pinocchio's lifeless body and weeps. By making this sacrifice, Pinocchio has risen to divinity in the narrative. In the end, "they" (now meaning the viewers) grow to love Pinocchio unconditionally due to his Christ-like sacrifice. And this parallelism is only strengthened when he ressurects and reunites with Gepetto.
-

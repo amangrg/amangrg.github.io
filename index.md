@@ -8,9 +8,9 @@
 layout: home
 ---
 
-Hey, Welcome to my porfolio website and personal blog!
+Welcome to my porfolio website and personal blog!
 
-I’m a Fullstack Software Engineer based out of India. I am currently working with **[Walmart Global Tech.](https://tech.walmart.com/content/walmart-global-tech/en_us.html)** My linkedin profile can be viewed **[here](https://www.linkedin.com/in/amanmakesart/)**, and some of my web projects can be viewed **[here.](/projects)**
+I’m a fullstack software engineer based out of India. I am currently working with **[Walmart Global Tech.](https://tech.walmart.com/content/walmart-global-tech/en_us.html)** My linkedin profile can be viewed **[here](https://www.linkedin.com/in/amanmakesart/)**, and some of my web projects can be viewed **[here.](/projects)**
 
 I wish to empower and inspire people through my work, be it code, artwork or writing.
 
