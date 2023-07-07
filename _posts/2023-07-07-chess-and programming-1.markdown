@@ -9,11 +9,11 @@ I have been playing chess for more than 15 years - my school days were spent tra
 
 **1. The Importance of Physical Conditioning**
 
-In recent times, physical conditioning has been recognised as integral to chess training. Although its importance was known previously, it was only after the rise of Norwegian chess World Champion Magnus Carlsen that it became a truism. He has credited part of his success to his physical fitness. Magnus spends a lot of time running and playing soccer, basketball, and tennis. Known for his impressive mental endurance, he often beats his opponents in marathon games lasting for more than 7 hours.
+In recent times, physical conditioning has been recognised as integral to chess training. Although its importance was known previously, it was only after the rise of Norwegian World Chess Champion Magnus Carlsen that it became a truism. He has credited part of his success to his physical fitness. Magnus spends a lot of time running and playing soccer, basketball, and tennis.
 
 ![Magnus Carlsen](/assets/images/magnus.jpg){: style="width: 800px" }
 
-The exact mechanism is not known, but having good physical stamina is known to increase mental endurance. Software engineers who find themselves sitting for hours trying to solve a production bug or push a feature before a deadline can certainly benefit from this information. Good physical health can help keep one's concentration up during intense coding sessions.
+The exact mechanism is not known, but having good physical stamina is known to increase mental endurance. Known for his impressive mental endurance, Magnus often beats his opponents in marathon games lasting for more than 7 hours. Software engineers who find themselves sitting for hours trying to solve a production bug or push a feature before a deadline can certainly benefit from this information. Good physical health can help keep one's concentration up during intense coding sessions.
 
 **2. There is a Lot of Room at the Top.**
 
