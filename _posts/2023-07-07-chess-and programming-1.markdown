@@ -9,7 +9,7 @@ I have been playing chess for more than 15 years - my school days were spent tra
 
 **1. The Importance of Physical Conditioning**
 
-In recent times, physical conditioning has been recognised as integral to chess training. Although its importance was known previously, it was only after the rise of Norwegian chess Grandmaster Magnus Carlsen that it became a truism. Apart from chess, Magnus spends a lot of time running and playing soccer, basketball, and tennis. Magnus is known for his impressive mental endurance and often beats his opponents in marathon games that can last for more than 7 hours.
+In recent times, physical conditioning has been recognised as integral to chess training. Although its importance was known previously, it was only after the rise of Norwegian chess World Champion Magnus Carlsen that it became a truism. He has credited part of his success to his physical fitness. Magnus spends a lot of time running and playing soccer, basketball, and tennis. Known for his impressive mental endurance, he often beats his opponents in marathon games lasting for more than 7 hours.
 
 ![Magnus Carlsen](/assets/images/magnus.jpg){: style="width: 800px" }
 
