@@ -20,15 +20,14 @@
 
 title: Aman Garg
 email: amangrg96@gmail.com
-description: Web Developer, Artist, and Blogger.
+description: Web Developer and Blogger.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amangrg.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amanmakesart
-github_username:  amangrg
+github_username: amangrg
 author: Aman Garg
 repository: amangrg/amangrg.github.io
 timezone: Asia/Kolkata
-
 
 # Build settings
 theme: jekyll-theme-cayman
@@ -38,8 +37,8 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 
 exclude:
-- Gemfile
-- Gemfile.lock
-- readme.md
-- license.md
-- CNAME
+  - Gemfile
+  - Gemfile.lock
+  - readme.md
+  - license.md
+  - CNAME
